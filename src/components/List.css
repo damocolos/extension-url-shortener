@@ -1,0 +1,14 @@
+.List-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.List-item {
+  border: 0.1rem rgb(189, 189, 189) solid;
+}
+
+.List-item p {
+  padding: 0.2rem;
+  margin: 0;
+}
